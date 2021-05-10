@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stock Markets on Paras | Portfolio Site</title>
+    <link>https://parasjadiya.github.io/categories/stock-markets/</link>
+    <description>Recent content in Stock Markets on Paras | Portfolio Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Fri, 12 Mar 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://parasjadiya.github.io/categories/stock-markets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&lt;font size=5&gt;Algorithmic Trading using Python&lt;/font&gt;</title>
+      <link>https://parasjadiya.github.io/portfolio/project-1/</link>
+      <pubDate>Fri, 12 Mar 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://parasjadiya.github.io/portfolio/project-1/</guid>
+      <description>I have been fascinated by financial markets for a long time.</description>
+    </item>
+    
+  </channel>
+</rss>
